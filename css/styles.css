@@ -73,7 +73,6 @@ body {
   background-color: #404bbf;
 }
 
-.features-title,
 .header-h3 {
   font-weight: 500;
   font-size: 20px;
@@ -116,5 +115,8 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+.logo-secondary-part-footer {
   color: #f4f4fd;
 }
