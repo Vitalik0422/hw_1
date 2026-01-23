@@ -73,7 +73,8 @@ body {
   background-color: #404bbf;
 }
 
-.features-title .header-h3 {
+.features-title,
+.header-h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -101,6 +102,19 @@ body {
   color: #2e2f42;
 }
 
-.our-team-element{
-  background-color: #FFFFFF
+.our-team-element {
+  background-color: #ffffff;
+}
+
+/* footer */
+
+.footer {
+  background-color: #2e2f42;
+}
+
+.body-text-footer {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
