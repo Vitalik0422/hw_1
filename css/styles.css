@@ -94,6 +94,13 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+.header-h3-portfolio {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
 
 .body-text {
   font-size: 16px;
@@ -115,6 +122,14 @@ body {
   color: #2e2f42;
 }
 .header-h2-team {
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.header-h2-portfolio {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
