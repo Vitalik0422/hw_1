@@ -62,7 +62,7 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.04;
+  letter-spacing: 0.04em;
   background-color: #4d5ae5;
   color: #ffffff;
   cursor: pointer;
@@ -89,7 +89,7 @@ body {
 }
 
 .section-our-team {
-  color: #f4f4fd;
+  background-color: #f4f4fd;
 }
 
 .section-our-team-title {
