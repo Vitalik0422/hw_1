@@ -62,7 +62,8 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.04;
+  background-color: #4d5ae5;
   color: #ffffff;
   cursor: pointer;
 }
@@ -70,4 +71,32 @@ body {
 .btn-order:hover,
 .btn-order:focus {
   background-color: #404bbf;
+}
+
+.features-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.body-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.section-our-team {
+  color: #f4f4fd;
+}
+
+.section-our-team-title {
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
